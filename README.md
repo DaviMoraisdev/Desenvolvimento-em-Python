@@ -42,7 +42,6 @@ python-fundamentos-obc/
 │   ├── Exercicio5.py
 │   ├── Exercicios.py
 │   └── outros exemplos de fundamentos
-├── .gitignore
 └── README.md
 ```
 
@@ -53,8 +52,8 @@ python-fundamentos-obc/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/DaviMoraisdev/python-fundamentos-obc.git
-cd python-fundamentos-obc
+git clone https://github.com/DaviMoraisdev/Desenvolvimento-em-Pyhton.git
+cd Desenvolvimento-em-Python
 ```
 
 Execute o projeto final:
