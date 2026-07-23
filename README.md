@@ -52,7 +52,7 @@ python-fundamentos-obc/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/DaviMoraisdev/Desenvolvimento-em-Pyhton.git
+git clone https://github.com/DaviMoraisdev/Desenvolvimento-em-Python.git
 cd Desenvolvimento-em-Python
 ```
 
