@@ -17,5 +17,3 @@ os.system('systeminfo')
 
 # Limpar a tela 
 # os.system('cls')
-
-# os.system('ipconfig')
