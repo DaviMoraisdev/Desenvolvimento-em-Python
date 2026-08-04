@@ -18,6 +18,7 @@ Os exemplos deste repositório abordam:
 - `*args` e `**kwargs`
 - Funções lambda
 - Funções recursivas
+- Módulos e Serviços
 
 ## Projeto final do módulo
 
