@@ -20,7 +20,7 @@ Os exemplos deste repositório abordam:
 - Funções recursivas
 - Módulos e Serviços
 
-## Projeto final do módulo
+## Projeto Básico que apresenta aquilo que foi estudado 
 
 O arquivo `PythonFundamentos/Exercício_FinalMódulo1.py` contém um sistema executado pelo terminal para gerenciamento de times e jogadores.
 
