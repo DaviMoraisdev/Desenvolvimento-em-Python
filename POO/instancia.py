@@ -15,10 +15,5 @@ movie.durationMinutes = 130
 
 
 
-
-
-
-
-
 print("##Dados do Filme##")
 print(f"Nome do filme: {movie.name} \n Ano de Lançamento: {movie.yearLaunch} \n Duração: {movie.durationMinutes} minutos")
