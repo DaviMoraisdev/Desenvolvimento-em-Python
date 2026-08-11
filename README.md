@@ -246,7 +246,7 @@ Suíte com `unittest` cobrindo o `ex3.py`:
 
 ## Projetos em destaque
 
-### 🏆 Gestão de Times e Jogadores — `PythonFundamentos/Exercício_FinalMódulo1.py`
+### Gestão de Times e Jogadores — `PythonFundamentos/Exercício_FinalMódulo1.py`
 
 Projeto de revisão do Módulo 1, que consolida **todos** os fundamentos em um único sistema de terminal. Usa um dicionário de times, onde cada time guarda seu nome e uma lista de jogadores.
 
@@ -260,11 +260,11 @@ Funcionalidades:
 
 Recursos aplicados: dicionários aninhados, listas, funções auxiliares (`print_teams`, `print_team_players`), `enumerate()`, laço `while`, `if/elif/else` e validação de entrada.
 
-### 🎮 Jogo da Forca — `exercicios/ex2.py`
+### Jogo da Forca — `exercicios/ex2.py`
 
 O exemplo mais maduro do repositório em termos de organização de código: separação de responsabilidades em funções, estado isolado em dicionário, docstrings completas e escolha de estruturas de dados justificada por complexidade algorítmica.
 
-### 📦 Controle de Estoque — `exercicios/ex1.py`
+### Controle de Estoque — `exercicios/ex1.py`
 
 Melhor exemplo de **validação defensiva**: nenhuma operação de saída é aplicada antes de confirmar que o produto existe e que há saldo suficiente.
 
