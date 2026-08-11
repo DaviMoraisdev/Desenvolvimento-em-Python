@@ -1,4 +1,4 @@
-# Curso OBC — Python
+# Desenvolvimento em Python 
 
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
 ![Licença](https://img.shields.io/badge/uso-educacional-green)
