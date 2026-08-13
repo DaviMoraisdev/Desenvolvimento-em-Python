@@ -1,6 +1,6 @@
 import unittest
 
-from ex3 import calcular_media, verificar_aprovacao
+from módulos.exercicios.ex3 import calcular_media, verificar_aprovacao
 
 
 class TestSistemaNotas(unittest.TestCase):

@@ -14,7 +14,7 @@ o cálculo de quanto ficaria o preço final com o desconto
 
 """
 
-class Product:
+class Produto:
     def __init__(self, name, price):
         self.name = name
         self.price = price
@@ -27,8 +27,8 @@ class Product:
         finalPrice = self.price - valorDiscount
         return int(finalPrice)
 
-xbox = Product("Xbox Series X", 5000)
-iphone = Product("Iphone 14 Pro Max", 10000)
+xbox = Produto("Xbox Series X", 5000)
+iphone = Produto("Iphone 14 Pro Max", 10000)
 print(xbox)
 print(iphone)
 print(xbox.discount(10))
