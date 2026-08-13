@@ -1,2 +1,6 @@
 .vscode
 __pycache__
+.claude
+.venv
+person.txt
+requirements.txt
