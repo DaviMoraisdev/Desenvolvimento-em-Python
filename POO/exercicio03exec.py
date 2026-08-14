@@ -12,7 +12,7 @@ print(f"{viajante} você se tornou alguém melhor, aproveite!"
       '''
         [0] - England
         [1] - Iceland
-        [2] - Gramado
+        [2] - Japan
         [3] - California
         [4] - Vinland
       '''
