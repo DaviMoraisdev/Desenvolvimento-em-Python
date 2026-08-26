@@ -2,5 +2,4 @@
 __pycache__
 .claude
 .venv
-person.txt
-requirements.txt
+.pytest_cache
